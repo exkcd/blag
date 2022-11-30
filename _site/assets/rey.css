@@ -109,7 +109,6 @@ a:hover {
 
 .post-des {
   display: block;
-  margin-bottom: var(--gutter);
   color: var(--secondary-color);
 }
 
