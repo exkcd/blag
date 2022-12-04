@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A friend from far away
+title: The social dilemma
 description: To all social mediums involving the Internet
 ---
 I understand that as a human race, we have come a long ways from building fires inside caves, and eating raw meat to sitting down in a heated apartment while staring at a glowing rectangle intangibly interacting supposedly with other humans through an imaginary medium that we have created through electrical currents, but what are we gaining from all this? We as humans crave social connections with other humans, but is it still meaningful interaction even through a screen? I guess with all this chaos surrounding Twitter's recent company changes as well as what the "Metaverse" even is,  it is only natural to question how people interact nowadays.
