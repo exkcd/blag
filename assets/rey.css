@@ -108,6 +108,11 @@ a:hover {
   margin-bottom: 4rem;
 }
 
+.post-title {
+  display: block;
+  color: var(--heading-color);
+}
+
 .post-des {
   display: block;
   color: var(--secondary-color);
@@ -122,4 +127,8 @@ a:hover {
   flex-wrap: wrap;
   margin-bottom: 2rem;
   font-size: 1rem;  
+}
+
+.masthead-title {
+  display: block;
 }

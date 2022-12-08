@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="post">
-  <h3 class="post-des">{{ page.description }} </h3>
+  <h2 class="post-title">{{ page.title | escape }} </h1>
+  <h4 class="post-des">{{ page.description }} </h3>
   {{ content }}
 </div>
