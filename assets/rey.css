@@ -25,7 +25,8 @@
 
 /** Global resets */
 
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
 }
@@ -49,7 +50,12 @@ body {
 
 /** Headings */
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: normal;
   color: var(--heading-color);
   margin: 0;
@@ -126,7 +132,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 2rem;
-  font-size: 1rem;  
+  font-size: 1rem;
 }
 
 .masthead-title {

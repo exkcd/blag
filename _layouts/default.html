@@ -1,18 +1,19 @@
 <!doctype html>
 <html lang="en-us">
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    <div class="container">
-      <header class="masthead">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl}}/" >{{ site.title }}</a>
-        </h3> 
-      </header>
+<div class="body">
+  <div class="container">
+    <header class="masthead">
+      <h4 class="masthead-title">
+        <a href="{{ site.baseurl}}/">{{ site.title }}</a>
+      </h4>
+    </header>
 
-      <main>
-        {{ content }}
-      </main>
-    </div>
-  </body>
+    <main>
+      {{ content }}
+    </main>
+  </div>
+</div>
+
 </html>
