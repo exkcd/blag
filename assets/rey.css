@@ -20,7 +20,7 @@
   --secondary-color: #7a7a7a;
   --heading-color: #333;
   --link-color: #222;
-  --link-color-hover: #000;
+  --link-color-hover: var(--secondary-color);
 }
 
 /** Global resets */
@@ -75,7 +75,8 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  color: var(--link-color-hover);
 }
 
 
