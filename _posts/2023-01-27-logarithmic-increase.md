@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logarithmic Incrase
+title: Logarithmic Increase
 description: To feeling behind in life
 ---
 I don't know about you, but my current area of academic interest has left me with very little time to myself. It has only been a couple of weeks since the start of my semester, yet I already feel the pressure of getting assignments done on time as well as the never ending LIST of assignments being assigned. It also does not help that each professor treats their class like it's The Most Important Class In Your Academic Career And You Need To Pour All Your Sanity Into This Class. Maybe I'm exaggerating my workload. I feel like I am, because I know several people who have much greater workloads than me, yet they do not complain about their homework. But maybe "complaining" isn't the right word for this. Maybe this is more like "having a discussion" about my workload, and while I may downplay my achievements and such, I do think that some professors can be quite intense about their class. If you are currently enrolled in any type of academic institution, I wish you luck in your classes if they started, or if they are in session, whatever it may be.
