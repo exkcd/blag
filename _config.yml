@@ -1,3 +1,6 @@
 title: Letters to a far away friend
 baseurl: "/"
 url: ""
+
+plugins:
+  - jekyll-seo-tag
