@@ -20,6 +20,7 @@
   --secondary-color: #7a7a7a;
   --heading-color: #333;
   --link-color: #222;
+  --hr-color: #ddd;
   --link-color-hover: var(--secondary-color);
 }
 
@@ -133,8 +134,10 @@ a:hover {
   flex-wrap: wrap;
   margin-bottom: 2rem;
   font-size: 1rem;
+  border-bottom: 0.125rem solid var(--hr-color);
 }
 
 .masthead-title {
   display: block;
+  margin-bottom: .5rem;
 }
