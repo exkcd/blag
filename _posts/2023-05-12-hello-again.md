@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hello, again
+description: To the time taken off
+---
+This time off from writing has left me quite rusty, so excuse the lack of a linear progression of thoughts. I have spent many days typing, retyping, deleting and eventually giving up on trying to string together the "perfect" sentences to explain my disappearance. It's not like my absence actually means anything from a broad perspective, but maybe if you're reading this, the sudden appearance of this new letter has surprised you. Every human's existence on this Earth really means nothing from a broad perspective, but that does not mean that you don't matter to the few people who do find ways to orbit your galaxy.
+
+I guess for me, this time off hasn't allowed me much time for pondering. If I'm being honest, this time off has actually led me to rethink if I even want to continue writing this. I realize that my intention with this has changed significantly, and I don't even think it'd be right to call these posts "letters" anymore. They're more like sporadic unfinished thoughts. At least, that's what these letters can be if I actually let myself freely think instead of trying to hold back. I guess I'm putting a little too much pressure on myself to make this feel perfect. But maybe that's just part of the process of writing. With that being said, I am still going to continue writing these posts. Since summer is coming up (and my free time has now grown exponentially), I finally have the freedom to think and reflect a little more. Hopefully writing will start to feel like a habit again, and I'll be able to speak my mind without worrying about how "perfect" it needs to be. I guess this is a good place to stop for now.
