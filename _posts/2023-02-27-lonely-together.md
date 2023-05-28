@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lonely Together
+title: Lonely together
 description: To loneliness
 ---
 Well, it has certainly been a while since I last posted an actual in depth letter on this tiny little blog. I know that nobody is reading this, and while that is quite sad to realize, I guess my original intention of this just being a time machine for my writing is currently being satisfied. In a sense, that makes me feel quite content. I still like to imagine that someone is out there listening to me. Maybe you are, and I'm just not aware of it. Maybe no one is here, and I'm just slightly crazy. But that's ok! I'm ok with this quiet little space sitting in my own company. In another sense, this little blog is also a way I'm getting used to sitting with myself. I've always been quite bad at that even though I find myself alone a lot of the time, and I'm usually very critical of myself when I realize that I don't have a lot of friends nor is my life quite ideal right now. But, if I don't get better at sitting with myself now, then how will I sit with myself in the future? My reasoning is that since I have all the time in the world right now to sit in my loneliness, I might as well get good at it, ha. Even though I am alone right now, I won't always be lonely. Not if I can help it anyways.
