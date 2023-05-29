@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stem Cells
+title: Stem cells
 description: To the growth factors of life
 ---
 Sometimes I wonder if anyone reads this. I wonder if my words are just floating around inconspicuously through the vast ocean of the Internet, or if this message in a bottle actually makes it to anybody. I'm not concerned whether or not someone is reading this as my intention has stayed the same throughout the past nine letters I have written, yet my curiosity gets the better of me sometimes. Though, if you do manage to find this, I sincerely hope that you enjoy/have enjoyed any of my life rants and existential crises, not that they are enjoyable (quite the opposite in fact), but rather I hope you have enjoyed the experience of scrutinizing life from different perspectives. I rarely get to discuss philosophy or just life with others because normal people find that a bit "weird", so when I do get to discuss the workings of life either on the Internet like this or in person, I am more than grateful to have experienced that connection, and I hope to surround myself with like-minded people in the future.
