@@ -41,6 +41,8 @@ body {
 html {
   font-family: var(--body-font);
   font-size: 1.2em;
+  overflow: scroll;
+  overflow-x: hidden;
 }
 
 body {
@@ -49,6 +51,10 @@ body {
   line-height: 1.6;
   color: var(--body-color);
   background-color: var(--body-bg);
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
 
 /** Headings */
