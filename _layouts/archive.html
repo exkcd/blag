@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="archive">
-  {% assign date_format = "%d %b %Y" %}
+  {% assign date_format = "%b %d %Y" %}
   {% for post in site.posts %}
   <h3 class="archive-item">
     <a href="{{ post.url | relative_url }}"> {{ post.title | escape }}</a>
