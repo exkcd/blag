@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a little poem
-description: to the monochromatic melancholic melody I sing in my head
+title: A little poem
+description: To the monochromatic melancholic melody I sing in my head
 ---
 life is looking
 
