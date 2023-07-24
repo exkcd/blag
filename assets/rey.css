@@ -26,12 +26,7 @@
 
 /** Global resets */
 
-html {
-  margin: 0;
-  padding: 0;
-}
-
-body {
+html, body {
   margin: 0;
   padding: 0;
 }
@@ -41,8 +36,6 @@ body {
 html {
   font-family: var(--body-font);
   font-size: 1.2em;
-  overflow: scroll;
-  overflow-x: hidden;
 }
 
 body {
@@ -51,10 +44,6 @@ body {
   line-height: 1.6;
   color: var(--body-color);
   background-color: var(--body-bg);
-}
-
-::-webkit-scrollbar {
-  display: none;
 }
 
 /** Headings */
@@ -78,6 +67,10 @@ p {
   margin-bottom: 1rem;
 }
 
+p a {
+  opacity: 50%;
+}
+
 a {
   color: var(--link-color);
   text-decoration: none;
@@ -90,7 +83,7 @@ a:hover {
 /** Container  */
 
 .container {
-  max-width: 42rem;
+  max-width: 56rem;
   margin: 0 auto;
 }
 
@@ -133,14 +126,11 @@ a:hover {
 /** Masthead */
 
 .masthead {
-  display: flex;
-  flex-wrap: wrap;
   margin-bottom: 2rem;
   font-size: 1rem;
   border-bottom: 0.125rem solid var(--hr-color);
 }
 
 .masthead-title {
-  display: block;
   margin-bottom: 0.5rem;
 }
